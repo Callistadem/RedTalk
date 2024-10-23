@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/triantosnick1122/Comp307-FinalProject-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/triantosnick1122/Comp307-FinalProject-Backend.git
