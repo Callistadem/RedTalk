@@ -11,4 +11,5 @@ staff and students, serving as a Slack/Discord replacement.
 
 
 ## Team Members:
-Callista Dembegiotis, Efe Gulalp, Julia Kulenty, and Nick Triantos
+Frontend team: Callista Dembegiotis, Julia Kulenty
+Backend team: Efe Gulalp, Nick Triantos
