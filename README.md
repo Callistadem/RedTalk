@@ -15,7 +15,7 @@ Frontend: Javascript, HTML, CSS, React
 Backend: Javascript, Python
 
 
-## Team Members:
+## Team Members
 Frontend team: Callista Dembegiotis, Julia Kulenty
 
 Backend team: Efe Gulalp, Nick Triantos
