@@ -1,13 +1,18 @@
 # RedTalk
 
 This is the main repository for **RedTalk**. It is split into two separate codebases:
-- [Frontend Repository](https://github.com/yourusername/frontend-repo)
-- [Backend Repository](https://github.com/yourusername/backend-repo)
+- [Frontend Repository (private)](https://github.com/yourusername/frontend-repo)
+- [Backend Repository (private)](https://github.com/yourusername/backend-repo)
 
 
 ## Project Overview
 This is our final project for COMP370 (Web Development) at McGill. It is an internal communication web application for McGill
-staff and students, serving as a Slack/Discord replacement.
+staff and students, serving as a Slack/Discord replacement. 
+
+## Tech stack
+Frontend: Javascript, HTML, CSS, React
+
+Backend: Javascript, Python
 
 
 ## Team Members:
