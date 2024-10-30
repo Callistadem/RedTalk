@@ -1,8 +1,8 @@
 # RedTalk
 
 This is the main repository for **RedTalk**. It is split into two separate codebases:
-- [Frontend Repository (private)](https://github.com/yourusername/frontend-repo)
-- [Backend Repository (private)](https://github.com/yourusername/backend-repo)
+- [Frontend Repository (private)](https://github.com/callistadem/Comp307-FinalProject-Frontend)
+- [Backend Repository (private)](https://github.com/callistadem/Comp307-FinalProject-Backend)
 
 
 ## Project Overview
