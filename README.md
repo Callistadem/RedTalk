@@ -1,8 +1,8 @@
 # RedTalk
 
 This is the main repository for **RedTalk**. It is split into two separate codebases:
-- [Frontend Repository (private)]
-- [Backend Repository (private)]
+- Frontend Repository (private)
+- Backend Repository (private)
 
 
 ## Project Overview
